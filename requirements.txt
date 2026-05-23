@@ -1,0 +1,8 @@
+pandas
+numpy
+os
+sqlalchemy
+re
+tqdm.notebook
+transformers
+scipy.special
